@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/XCh6LYq/kids.jpg",
+    "name": "Kids Karate Groups",
+    "time": "10:00-11:00 AM / LIZZIE MEYER",
+    "price": 500,
+    "des": "A maxim in this style of martial art is never attack first. Karate is a great way to teach kids how to be respectful and to focus on defense rather than offense. It can help kids build respect, self-control, and focus."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/QQKWDht/teen.jpg",
+    "name": "Teen & Adult Karate",
+    "time": "5:00-6:00 AM / ALEJANDRO DIAZ",
+    "price": 700,
+    "des": "Martial arts classes are fun, empowering, and provide a great workout for teens and adults. Whether you want to defend yourself, lose weight, or just have fun, our teen and adult martial arts classes have something to offer."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/kKXswN7/traditional.jpg",
+    "name": "Traditional Martial Arts",
+    "time": "6:00-7:00 PM / COLE BUTLER",
+    "price": 800,
+    "des": "A ‘martial art’ can simply be defined as a form of combat. However, a traditional martial art is different. There has to be an additional aspect to the martial art aside from just the combat instruction."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/ZVWxJsD/kick.jpg",
+    "name": "Kick Boxing Group",
+    "time": "11:00-12:00 AM / JARED HENRY",
+    "price": 600,
+    "des": "Cardio kickboxing is a group fitness class that combines martial arts techniques with fast-paced cardio. This high-energy workout challenges the beginner and elite athlete alike."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/TvJVkj8/jui.jpg",
+    "name": "Jiu Jitsu Group",
+    "time": "7:00-8:00 AM / VINCENT OSBORNE",
+    "price": 900,
+    "des": "Brazilian Jiu-Jitsu is a martial art and combat sport based on ground fighting and submission holds. It focuses on the skill of taking an opponent to the ground, controlling one's opponent, gaining a dominant position."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/3kcjPM6/kung.jpg",
+    "name": "Kung-Fu Group",
+    "time": "9:00-10:00 PM / RYAN MUNOZ",
+    "price": 700,
+    "des": "In general kung fu/kungfu refers to the Chinese martial arts also called wushu and quanfa. In China, it refers to any study, learning, or practice that requires patience, energy, and time to complete."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/GVYT3x5/shadow.jpg",
+    "name": "Shadow Boxing",
+    "time": "5:00-6:00 PM / COLE BUTLER",
+    "price": 500,
+    "des": "Shadowboxing is a combat sport exercise in which a person throws punches at the air as though there is an opponent. It is used mainly to prepare the muscles before the person training engages in stronger physical activity. "
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/fnpBKW1/Heavy.jpg",
+    "name": "Shadow Boxing",
+    "time": "6:00-7:00 PM / MARVIN KINNEY",
+    "price": 900,
+    "des": "Heavyweight is a division, or weight class, in boxing. Fighters who weigh over 200 pounds are considered heavyweights by the major professional boxing organizations."
+  }
+]

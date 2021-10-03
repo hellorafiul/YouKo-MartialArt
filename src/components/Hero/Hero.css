@@ -1,0 +1,39 @@
+#hero{
+  background: linear-gradient(0deg, rgb(0 0 0 / 85%), rgb(0 0 0 / 50%)), url('../../images/hero1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 700px;
+}
+#hero h1 span{
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+#hero h1{
+  font-size: 4rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  color: white;
+}
+
+.font-primary{
+  font-family: 'Oswald', sans-serif;
+}
+
+.youKo ul li a{
+  color: white !important;
+}
+.youKo ul li a:hover{
+  color: #FFCA2C !important;
+}
+
+#hero p{
+  color: white;
+  font-size: 16px;
+  font-family: sans-serif;
+  padding-bottom: 15px;
+  font-weight: 200;
+  padding-top: 10px;
+  line-height: 30px;
+}
