@@ -1,5 +1,5 @@
 #hero{
-  background: linear-gradient(0deg, rgb(0 0 0 / 85%), rgb(0 0 0 / 50%)), url('../../images/hero1.jpg');
+  background: linear-gradient(0deg, rgb(0 0 0 / 85%), rgb(191 106 106 / 50%)), url('../../images/hero1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;

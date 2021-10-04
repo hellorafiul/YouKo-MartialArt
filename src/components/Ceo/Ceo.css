@@ -1,0 +1,27 @@
+#ceo{
+  background: linear-gradient(0deg, rgb(0 0 0 / 85%), rgb(0 0 0 / 50%)), url('../../images/faith.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 400px;
+  background-size: cover;
+}
+
+#ceo h1{
+  font-size: 5rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+.ceo-right h2{
+  text-align: left;
+  padding-bottom: 20px;
+  font-size: 2.5rem;
+}
+.ceo-right img{
+  margin-bottom: -45px;
+  margin-left: -45px;
+}
+.ceo{
+  margin-bottom: -48px;
+}

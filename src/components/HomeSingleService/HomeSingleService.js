@@ -11,7 +11,6 @@ const HomeSingleService = (props) => {
           <h5 class="card-title">{name}</h5>
           <p class="card-text">{des.substring(0, 150)}... <Link className='link' to="/service">See Details</Link></p>
         </div>
-
       </div>
     </div>
   );

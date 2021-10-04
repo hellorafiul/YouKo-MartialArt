@@ -13,6 +13,7 @@ import About from './components/About/About';
 import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import ErrorPage from './components/404Error/ErrorPage';
+import Ceo from './components/Ceo/Ceo';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route exact path='/home'>
             <Hero></Hero>
             <HomePageService></HomePageService>
+            <Ceo></Ceo>
           </Route>
           <Route exact path='/about'>
             <About></About>
