@@ -14,7 +14,7 @@ const Hero = () => {
             Way of Martial Arts is run by a small group of martial arts enthusiasts.
 
             We have years of experience in various martial arts and combat sports, working with children, amateurs, and professionals.</p>
-          <button className='btn btn-warning rounded-pill w-25 mb-5'>Get Started</button>
+          <button className='btn btn-warning rounded-pill mb-5 px-5'>Get Started</button>
         </div>
       </section>
     </>
