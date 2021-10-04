@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/XCh6LYq/kids.jpg",
+    "name": "Kids Karate Groups",
+    "time": "10:00-11:00 AM / LIZZIE MEYER",
+    "price": 500,
+    "des": "A maxim in this style of martial art is never attack first. Karate is a great way to teach kids how to be respectful and to focus on defense rather than offense. It can help kids build respect, self-control, and focus."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/QQKWDht/teen.jpg",
+    "name": "Teen & Adult Karate",
+    "time": "5:00-6:00 AM / ALEJANDRO DIAZ",
+    "price": 700,
+    "des": "Martial arts classes are fun, empowering, and provide a great workout for teens and adults. Whether you want to defend yourself, lose weight, or just have fun, our teen and adult martial arts classes have something to offer."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/kKXswN7/traditional.jpg",
+    "name": "Traditional Martial Arts",
+    "time": "6:00-7:00 PM / COLE BUTLER",
+    "price": 800,
+    "des": "A ‘martial art’ can simply be defined as a form of combat. However, a traditional martial art is different. There has to be an additional aspect to the martial art aside from just the combat instruction."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/ZVWxJsD/kick.jpg",
+    "name": "Kick Boxing Group",
+    "time": "11:00-12:00 AM / JARED HENRY",
+    "price": 600,
+    "des": "Cardio kickboxing is a group fitness class that combines martial arts techniques with fast-paced cardio. This high-energy workout challenges the beginner and elite athlete alike."
+  }
+]

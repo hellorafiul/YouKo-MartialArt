@@ -1,0 +1,17 @@
+h2{
+  font-size: 3rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  color: #FFC107;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.homepage-service{
+  margin:100px 3%;
+}
+.link{
+  color: #FFC107;
+}
+.link:hover{
+  text-decoration: none;
+}
