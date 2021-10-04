@@ -1,6 +1,6 @@
 # WELCOME TO YouKo! KARATE & MARTIAL ARTS SCHOOL
 
-ABOUT [YouKo](https://github.com/facebook/create-react-app)
+ABOUT [YouKo](https://youko-rafi.netlify.app/)
 
 We teach Street Workout because we love it — not because we want to make money on you. Unlike other Street Workout schools, we do not require you to sign long term contracts. You just pay one low monthly fee for your Street Workout classes. 
 
