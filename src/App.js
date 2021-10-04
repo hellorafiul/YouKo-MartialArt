@@ -11,6 +11,8 @@ import Footer from './components/Footer/Footer';
 import HomePageService from './components/HomepageService/HomePageService';
 import About from './components/About/About';
 import Services from './components/Services/Services';
+import Contact from './components/Contact/Contact';
+import ErrorPage from './components/404Error/ErrorPage';
 
 function App() {
   return (
@@ -31,6 +33,12 @@ function App() {
           </Route>
           <Route exact path='/service'>
             <Services></Services>
+          </Route>
+          <Route exact path='/contact'>
+            <Contact></Contact>
+          </Route>
+          <Route exact path='*'>
+            <ErrorPage></ErrorPage>
           </Route>
         </Switch>
         <Footer></Footer>

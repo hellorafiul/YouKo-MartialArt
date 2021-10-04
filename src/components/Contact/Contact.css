@@ -1,0 +1,8 @@
+#contact{
+  background: linear-gradient(0deg, rgb(116 53 53 / 85%), rgb(0 0 0 / 50%)), url('../../images/contact.jpg');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-attachment: left;
+  background-size: cover;
+  min-height: 800px;
+}
