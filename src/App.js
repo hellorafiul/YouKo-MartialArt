@@ -24,6 +24,7 @@ function App() {
           <Route exact path='/'>
             <Hero></Hero>
             <HomePageService></HomePageService>
+            <Ceo></Ceo>
           </Route>
           <Route exact path='/home'>
             <Hero></Hero>
