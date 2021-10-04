@@ -1,0 +1,17 @@
+#services{
+  background: linear-gradient(0deg, rgb(116 53 53 / 85%), rgb(0 0 0 / 50%)), url('../../images/service.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  padding: 50px 0;
+}
+#services h2{
+  font-size: 4rem;
+}
+#services p{
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: 200;
+}
